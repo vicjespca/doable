@@ -1,0 +1,34 @@
+  
+.container-gcheck
+ { 
+  height: 330px;
+  width: 328px;
+  left: 16px;
+ }
+
+.option-box{
+  height: 42px;
+  width: 326px;
+  border-radius: 0px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+  color: #374151;
+  font-size: 14px;
+}
+
+.select-menu{
+  width: 250px;
+  height: 42px;
+  font-size: 16px;
+  line-height: 24px;
+  display: inline-block;
+  border-color: #D1D5DB;
+  border-radius: 6px;
+}
+
+.center-icon{
+  display: flex;
+  align-items: center;
+}
